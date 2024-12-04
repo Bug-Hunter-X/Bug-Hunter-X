@@ -6,7 +6,7 @@
 
 ## 🚀 About BugHunter-X
 - 🔧 **Purpose**: Help developers learn from bugs and their solutions.
-- 🕒 **Frequency**: New repositories every 68 minutes, 24/7.
+- 🕒 **Frequency**: New repositories every 2 minutes, around the clock.
 - 📚 **Content**: 
   - Code bugs with detailed explanations.
   - Step-by-step solutions.
